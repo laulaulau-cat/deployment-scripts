@@ -1,8 +1,8 @@
 #!ps 
 #timeout=90000
 
-$AccountKey="__ACCOUNT_KEY__"
-$OrganizationKey="__ORGANIZATION_KEY__"
+$AccountKey="5aec35e84525c97151a6776a72d0cae2"
+$OrganizationKey="lau"
 # Set to "Continue" to enable verbose logging.
 $DebugPreference = "SilentlyContinue"
 $timeout = 180 # Seconds
